@@ -35,4 +35,311 @@
   to {
     transform: rotate(360deg);
   }
+  
+}
+.hover{
+  padding: 5px 20px;
+}
+.hover:hover{
+color: black !important;
+/* padding: 5px 20px; */
+
+
+/* height: 30px;
+width: 250px; */
+background-color: #fff;
+}
+
+.button{
+  background-color: black;
+  color: white;
+  background-color: black;
+  border-color: black;
+}
+
+@media only screen and (max-width: 1544px) {
+  
+  .card {
+    height: 36.5rem;
+    width: 18rem;
+    margin-left: 70px;
+    margin-top: 50px;
+    border-color: white;
+    
+  }
+  .border{
+    margin-left: -23px;
+    
+  }
+  .images{
+    margin-left: 8px;
+    height: 9rem;
+    width: 20rem;
+
+  }
+  .cardbody{
+    margin-left: -10px;
+  }
+}
+
+@media only screen and (max-width: 1500px) {
+  
+  .card {
+    height: 37rem;
+    width: 22rem;
+    margin-left: 90px;
+    margin-top: 50px;
+    border-color: white;
+    
+     
+  }
+  .border{
+    margin-left: -20px;
+    width: 329px;
+    
+  }
+  .images{
+    margin-left: -0px;
+    height: 9rem;
+    width: 29rem;
+
+  }
+  .cardbody{
+    margin-left: 50px;
+  }
+}
+
+@media only screen and (max-width: 1380px) {
+  
+  .card {
+    height: 40rem;
+    width: 29rem;
+    margin-left: 130px;
+    margin-top: 50px;
+    
+     
+  }
+  .border{
+    margin-left: -20px;
+    border-color: white;
+  }
+  .images{
+    margin-left: 55px;
+    height: 9rem;
+    width: 27rem;
+    border-color: white !important;
+
+  }
+  .cardbody{
+    margin-left: 50px;
+  }
+}
+
+@media only screen and (max-width: 1243px) {
+  
+  .card {
+    height: 40rem;
+    width: 39rem;
+    margin-left: 260px;
+    margin-top: 50px;
+    border-color: white;
+    
+  }
+  .border{
+    margin-left: 29px;
+    width: 30rem;
+  }
+  .images{
+    margin-left: -15px;
+    height: 9rem;
+    width: 47rem;
+
+
+  }
+  .cardbody{
+    margin-left: 50px;
+    border-color: white;
+  }
+}
+
+@media only screen and (max-width: 1123px) {
+  
+  .card {
+    height: 40rem;
+    width: 40rem;
+    margin-left: 120px;
+    margin-top: 50px;
+    border-color: white;
+     /* height:'35rem */
+  }
+  .border{
+    margin-left: 10px;
+    width: 35rem;
+  }
+  .images{
+    margin-left: -15px;
+    height: 9rem;
+    width: 47rem;
+
+
+  }
+  .cardbody{
+    margin-left: 70px;
+    border-color: white;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  
+  .card {
+    height: 40rem;
+    width: 30rem;
+    margin-left: 140px;
+    margin-top: 50px;
+    border-color: white;
+     /* height:'35rem */
+  }
+  .border{
+    margin-left: 10px;
+    width: 25rem;
+  }
+  .images{
+    margin-left: -15px;
+    height: 9rem;
+    width: 27rem;
+
+
+  }
+  .cardbody{
+    margin-left: 70px;
+    border-color: white;
+  }
+}
+
+@media only screen and (max-width: 720px) {
+  
+  .card {
+    height: 40rem;
+    width: 20rem;
+    margin-left: 140px;
+    margin-top: 50px;
+    border-color: white;
+     /* height:'35rem */
+  }
+  .border{
+    margin-left: 10px;
+    width: 15rem;
+  }
+  .images{
+    margin-left: -15px;
+    height: 9rem;
+    width: 17rem;
+
+
+  }
+  .cardbody{
+    margin-left: 5px;
+    border-color: white;
+  }
+}
+
+@media only screen and (max-width: 580px) {
+  
+  .card {
+    height: 40rem;
+    width: 19rem;
+    margin-left: 140px;
+    margin-top: 50px;
+    border-color: white;
+     /* height:'35rem */
+  }
+  .border{
+    margin-left: 10px;
+    width: 15rem;
+  }
+  .images{
+    margin-left: -15px;
+    height: 15rem;
+    width: 15.5rem;
+
+
+  }
+  .cardbody{
+    margin-left: 0px;
+    border-color: white;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  
+  .card {
+    height: 40rem;
+    width: -5rem;
+    margin-left: 75px;
+    margin-top: 50px;
+    border-color: white;
+     /* height:'35rem */
+  }
+  .border{
+    margin-left: 10px;
+    width: 15rem;
+  }
+  .images{
+    margin-left: -15px;
+    height: 9rem;
+    width:15rem;
+
+
+  }
+  .cardbody{
+    margin-left: 70px;
+    border-color: white;
+  }
+}
+
+@media only screen and (max-width: 420px) {
+  
+  .card {
+    height: 40rem;
+    width: 19rem;
+    margin-left: 40px;
+    margin-top: 50px;
+    border-color: white;
+     /* height:'35rem */
+  }
+  .border{
+    margin-left: 10px;
+    width: 13rem;
+  }
+  .images{
+    margin-left: -45px;
+    height: 9rem;
+    width: 21rem;
+
+
+  }
+  .cardbody{
+    margin-left: 0px;
+    border-color: white;
+  }
+}
+/* @media only screen and (max-width: 600px) {
+  .m-3 {margin-left: auto;}
+} */
+
+
+
+.heading{
+  margin-left: 10px;
+text-decoration: underline;
+}
+.imgmovies{
+  
+  width: 100%;
+}
+
+.dtl{
+  background-color: #E50914;
+  text-decoration: solid;
+  text-shadow: #282c34;
 }

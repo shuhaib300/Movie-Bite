@@ -11,3 +11,42 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.login{
+  float: left;
+  width: 50%;
+  margin-top: 110px;
+  margin-left: 210px;
+  
+}
+.button{
+  width: 200px;
+  height: 40px;
+  background-color: #111;
+  
+}
+
+
+.flag{
+ width: 30px;
+ height: auto;
+}
+.tablestyle{
+  background-color: #E50914;
+}
+
+.link{
+  text-decoration: none !important;
+  
+}
+
+.aligninput{
+  float: left;
+margin-left: 20px;
+background-color: bisque;
+}
+.icons{
+  padding: 10px;
+  color: #111;
+  
+}
